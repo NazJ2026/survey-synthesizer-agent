@@ -50,4 +50,14 @@ An AI agent that takes open-ended survey responses and produces executive-ready 
 **Input:** 50 customer survey responses about their shopping experience
 
 **Output:**
+### Prerequisites
+- Python 3.9+
+- Claude API key (get from Anthropic)
+- Git (for cloning)
 
+### Step-by-Step
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/NazJ2026/survey-synthesizer-agent/edit/main/README.md
+   cd survey-synthesizer-agent
