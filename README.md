@@ -49,7 +49,16 @@ An AI agent that takes open-ended survey responses and produces executive-ready 
 
 **Input:** 50 customer survey responses about their shopping experience
 
+
 **Output:**
+Customers are broadly satisfied with product quality and price, and many cite fast delivery and easy checkout as genuine strengths. However, recurring friction across website performance, delivery reliability, and post-purchase support is undermining loyalty — particularly on mobile. Addressing checkout and returns UX as quick wins, alongside a longer-term investment in mobile experience and logistics accountability, would meaningfully improve NPS and repeat purchase rate.
+
+Here's the synthesised analysis across all 50 responses, formatted as a slide-ready brief.
+A few standout signals worth flagging for any debrief:
+The positive core is strong — product quality, competitive pricing, and fast delivery (when it works) generate genuine advocacy. Customers 9, 24, 30, 38, and 44 are effectively promoters.
+The biggest reputational risk sits in post-purchase: stolen packages, wrong items, slow refunds, and rude agents are the types of experiences that drive public reviews. Customers 19, 21, 25, and 31 are all at churn or complaint risk.
+The highest-effort, highest-return structural investment is the website — it's mentioned negatively by at least 7 customers across different symptoms (crashing, slow, confusing navigation, not mobile-friendly, cluttered checkout). That volume suggests a systemic issue rather than isolated edge cases.
+
 ### Prerequisites
 - Python 3.9+
 - Claude API key (get from Anthropic)
