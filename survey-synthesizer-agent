@@ -1,0 +1,7 @@
+text
+anthropic>=0.18.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+Create survey_synthesizer.py (or .ipynb notebook) with your prototype code
+Create a /images folder and add screenshots of your Claude output
