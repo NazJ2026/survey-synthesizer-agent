@@ -5,3 +5,10 @@ python-dotenv>=1.0.0
 jupyter>=1.0.0
 Create survey_synthesizer.py (or .ipynb notebook) with your prototype code
 Create a /images folder and add screenshots of your Claude output
+## How This Works (Conceptual)
+
+1. **Input:** Paste 50+ customer survey responses into the Claude chat
+2. **Process:** Claude applies the system prompt to identify key themes, pain points, and recommendations
+3. **Output:** Executive-ready summary with frequency scoring and actionable insights
+
+**Full code and implementation coming soon** – this prototype was built directly in Claude.ai to demonstrate rapid AI product development.
