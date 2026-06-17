@@ -68,6 +68,6 @@ The highest-effort, highest-return structural investment is the website — it's
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NazJ2026/survey-synthesizer-agent/edit/main/README.md
+   git clone https://github.com/NazJ2026/survey-synthesizer-agent.git
    cd survey-synthesizer-agent
    pip install -r requirements.txt
